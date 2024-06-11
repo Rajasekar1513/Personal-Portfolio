@@ -90,6 +90,7 @@ section{
 .home{
     display: flex;
     align-items: center;
+    background: url("../assests/img/sam.png");
     padding: 0 9%;
     background-size: cover;
     background-position: center;
